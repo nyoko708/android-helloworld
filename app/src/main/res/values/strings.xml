@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Banana Radio Listener</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">This App is Social Network Radio Service.</string>
     <string name="action_settings">Settings</string>
 </resources>
